@@ -1,6 +1,6 @@
 {
 	"name" : "ios-gmail-notes",
-	"version" : "0.0.2",
+	"version" : "0.0.3",
 	"description" : "node.js library that fetches iOS Notes synced through gmail, using IMAP",
 	"author": {
 		"name": "Andrei Gheorghe", 
@@ -10,7 +10,7 @@
 	"main": "./ios-gmail-notes",
 	"homepage": "https://github.com/idevelop/ios-gmail-notes",
 	"dependencies": {
-		"imap": ">=0.7.7"
+		"imap": ">=0.7.8"
 	},
 	"repository": {
 		"type": "git",
