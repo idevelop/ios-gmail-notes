@@ -28,6 +28,12 @@ notes.list({
 });
 ```
 
+## Why is this useful?
+
+If you're on a Windows / Linux machine, with no way to easily access your iOS Notes, it's very simple to use this library to fetch all the notes and dump them into separate txt files. 
+
+When this library will also support write access, it can be used as a Dropbox-like sync tool for your notes.
+
 ## Dependencies
 
 * imap package ([repository](https://github.com/mscdex/node-imap))
